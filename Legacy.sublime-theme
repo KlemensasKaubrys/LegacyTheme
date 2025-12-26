@@ -514,16 +514,16 @@
     {
         "class": "auto_complete",
         "row_padding": [2, 0],
-        "layer0.tint": [255, 255, 255],
+        "layer0.tint": [39, 40, 34],
         "layer0.opacity": 1.0,
-        "dark_content": false
+        "dark_content": true
     },
     {
         "class": "auto_complete_label",
-        "fg": [72, 72, 72, 255],
-        "match_fg": [0, 0, 0, 255],
-        "selected_fg": [72, 72, 72, 255],
-        "selected_match_fg": [0, 0, 0, 255]
+        "fg": [248, 248, 242, 255],
+        "match_fg": [166, 226, 46, 255],
+        "selected_fg": [248, 248, 242, 255],
+        "selected_match_fg": [166, 226, 46, 255]
     },
 
     {
